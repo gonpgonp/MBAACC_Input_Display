@@ -1,1 +1,1 @@
-pyinstaller src\MBAACC_Training.py --onefile --clean
+pyinstaller src\MBAACC_Input_Display.py --onefile --clean
